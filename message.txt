@@ -1,0 +1,6 @@
+Dear ${PERSON_NAME},
+
+This is a test message, to see if I can automate.
+Love you All!
+
+Love
